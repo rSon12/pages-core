@@ -57,7 +57,7 @@
     "socket.io-client": "^4.7.2",
     "underscore": "^1.12.1",
     "urlsafe-base64": "^1.0.0",
-    "uswds": "^1.4.4",
+    "uswds": "^2.0.0",
     "validator": "^13.11.0",
     "whatwg-fetch": "^3.6.19",
     "winston": "^3.11.0",
